@@ -1,5 +1,11 @@
 # Boas-vindas ao repositório do projeto Meme Generator!
 
+### README Translations:
+* [English](/README.en.md)
+* [Portuguese](/README.md)
+
+---
+
 ## 👨‍💻 O que foi desenvolvido:
 
   - Uma aplicação usando HTML, CSS e JAVASCRIPT onde seja possível fazer upload de imagens para criar memes.
